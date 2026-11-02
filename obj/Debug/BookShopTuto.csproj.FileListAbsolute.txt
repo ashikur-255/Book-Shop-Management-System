@@ -1,0 +1,16 @@
+D:\C#Project\BookShopTuto\bin\Debug\BookShopTuto.exe.config
+D:\C#Project\BookShopTuto\bin\Debug\BookShopTuto.exe
+D:\C#Project\BookShopTuto\bin\Debug\BookShopTuto.pdb
+D:\C#Project\BookShopTuto\obj\Debug\BookShopTuto.csproj.AssemblyReference.cache
+D:\C#Project\BookShopTuto\obj\Debug\BookShopTuto.Books.resources
+D:\C#Project\BookShopTuto\obj\Debug\BookShopTuto.DashBoard.resources
+D:\C#Project\BookShopTuto\obj\Debug\BookShopTuto.Login.resources
+D:\C#Project\BookShopTuto\obj\Debug\BookShopTuto.Splash.resources
+D:\C#Project\BookShopTuto\obj\Debug\BookShopTuto.Properties.Resources.resources
+D:\C#Project\BookShopTuto\obj\Debug\BookShopTuto.Users.resources
+D:\C#Project\BookShopTuto\obj\Debug\BookShopTuto.csproj.GenerateResource.cache
+D:\C#Project\BookShopTuto\obj\Debug\BookShopTuto.csproj.CoreCompileInputs.cache
+D:\C#Project\BookShopTuto\obj\Debug\BookShopTuto.exe
+D:\C#Project\BookShopTuto\obj\Debug\BookShopTuto.pdb
+D:\C#Project\BookShopTuto\obj\Debug\BookShopTuto.Admin_Interface.resources
+D:\C#Project\BookShopTuto\obj\Debug\BookShopTuto.Billing_Interface.resources

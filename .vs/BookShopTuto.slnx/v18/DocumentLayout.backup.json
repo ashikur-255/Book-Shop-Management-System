@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#Project\\BookShopTuto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|d:\\c#project\\bookshoptuto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|D:\\C#Project\\BookShopTuto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|D:\\C#Project\\BookShopTuto\\admin interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:admin interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|D:\\C#Project\\BookShopTuto\\admin interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:admin interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|D:\\C#Project\\BookShopTuto\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|D:\\C#Project\\BookShopTuto\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|D:\\C#Project\\BookShopTuto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|D:\\C#Project\\BookShopTuto\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|D:\\C#Project\\BookShopTuto\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|D:\\C#Project\\BookShopTuto\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|D:\\C#Project\\BookShopTuto\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|D:\\C#Project\\BookShopTuto\\billing interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:billing interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|D:\\C#Project\\BookShopTuto\\billing interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:billing interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|D:\\C#Project\\BookShopTuto\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351E2BAA-CF5B-4617-9E2B-971E18269140}|BookShopTuto.csproj|solutionrelative:splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T05:44:22.849Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T12:37:30.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\DashBoard.cs",
+              "RelativeDocumentMoniker": "DashBoard.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\DashBoard.cs [Design]",
+              "RelativeToolTip": "DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T09:38:34.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs [Design]",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\Users.cs",
+              "RelativeDocumentMoniker": "Users.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\Users.cs [Design]",
+              "RelativeToolTip": "Users.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:58:45.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\Users.cs",
+              "RelativeDocumentMoniker": "Users.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\Users.cs",
+              "RelativeToolTip": "Users.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T19:23:35.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin Interface.cs [Design]",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\Admin Interface.cs",
+              "RelativeDocumentMoniker": "Admin Interface.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\Admin Interface.cs [Design]",
+              "RelativeToolTip": "Admin Interface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T16:58:25.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T06:15:56.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\DashBoard.cs",
+              "RelativeDocumentMoniker": "DashBoard.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\DashBoard.cs",
+              "RelativeToolTip": "DashBoard.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T06:46:20.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin Interface.cs",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\Admin Interface.cs",
+              "RelativeDocumentMoniker": "Admin Interface.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\Admin Interface.cs",
+              "RelativeToolTip": "Admin Interface.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwBgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T12:43:36.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Books.cs",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\Books.cs",
+              "RelativeDocumentMoniker": "Books.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\Books.cs",
+              "RelativeToolTip": "Books.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:42:12.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Books.cs [Design]",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\Books.cs",
+              "RelativeDocumentMoniker": "Books.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\Books.cs [Design]",
+              "RelativeToolTip": "Books.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:27:29.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Billing Interface.cs",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\Billing Interface.cs",
+              "RelativeDocumentMoniker": "Billing Interface.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\Billing Interface.cs",
+              "RelativeToolTip": "Billing Interface.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T17:50:52.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Billing Interface.cs [Design]",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\Billing Interface.cs",
+              "RelativeDocumentMoniker": "Billing Interface.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\Billing Interface.cs [Design]",
+              "RelativeToolTip": "Billing Interface.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T16:47:16.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Splash.cs [Design]",
+              "DocumentMoniker": "D:\\C#Project\\BookShopTuto\\Splash.cs",
+              "RelativeDocumentMoniker": "Splash.cs",
+              "ToolTip": "D:\\C#Project\\BookShopTuto\\Splash.cs [Design]",
+              "RelativeToolTip": "Splash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T05:11:22.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
